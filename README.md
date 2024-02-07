@@ -39,29 +39,3 @@ My ongoing learning journey is focused on solidifying my expertise in the JS sta
 - **Phone:** +55 (22) 99263-2108
 
 </details>
-
-
----
-
-
-# Take a look in my personal projects:
-
-<div styles="width:100%;">
-  <a href="https://github.com/PedroLucasAraujo/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasAraujo&repo=react_automatic_convert_audio_notes_to_text" />
-  </a>
-  <a href="https://github.com/PedroLucasAraujo/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasAraujo&repo=nodejs_real_time_voting_system" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/PedroLucasAraujo/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasAraujo&repo=reactjs_headlesscms_ceifa_church" />
-  </a>
-  <a href="https://github.com/PedroLucasAraujo/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasAraujo&repo=habits-tracker" />
-  </a>
-</div>
-
-
