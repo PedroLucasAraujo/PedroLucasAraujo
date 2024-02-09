@@ -6,8 +6,7 @@ I embarked on my programming journey at the age of 15 through the M3 Academy pro
 
 Currently, I'm pursuing a bachelor's degree in Analysis and Systems Development at CEFET/RJ.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLucasAraujo)](https://github.com/PedroLucasAraujo/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PedroLucasAraujo&hide=javascript&layout=compact&langs_count=8&card_width=320)](https://github.com/PedroLucasAraujo/convoychat)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PedroLucasAraujo&theme=dark&hide=javascript&layout=compact&langs_count=8&card)](https://github.com/PedroLucasAraujo/convoychat)
 
 ---
 
