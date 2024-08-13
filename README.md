@@ -1,8 +1,8 @@
 # Hello, I'm Pedro Lucas Araujo
 
-Passionate about the most cutting-edge web and mobile development technologies.
+Enthusiast of the Best Web & Mobile Development Technologies
 
-I embarked on my programming journey at the age of 15 through the M3 Academy professional course. Since then, I've been a part of the M3 family, starting as a Junior during high school and advancing to a Full Stack Developer. My experience spans international projects, where I've engaged with technologies such as React, TypeScript, Node.js, and GraphQL.
+At the age of 15, I began my training in the field, and my outstanding performance during this period earned me a unique opportunity: I was hired as a developer at a multinational company while still in school. Now, with several years of experience, I have expanded my knowledge and skills, enabling me to become an even more well-rounded developer. I actively participate in international projects, directly engage with clients, and implement complex solutions.
 
 Currently, I'm pursuing a bachelor's degree in Analysis and Systems Development at CEFET/RJ.
 
