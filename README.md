@@ -1,4 +1,4 @@
-# Hello, I'm Pedro Lucas Araujo
+# Hi, I'm Pedro Lucas👋👨‍💻
 
 Enthusiast of the Best Web & Mobile Development Technologies
 
@@ -6,24 +6,19 @@ At the age of 15, I began my training in the field, and my outstanding performan
 
 Currently, I'm pursuing a bachelor's degree in Analysis and Systems Development at CEFET/RJ.
 
----
 
-### Languages and Tools:
+### My Tech Stack:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
-
----
 
 ### 💻 I’m currently working on ...
 
@@ -31,13 +26,11 @@ Currently, I'm part of a dynamic team at an e-commerce agency, involved in the i
 
 In my free time, Icollaborate on full-stack projects, highlighting the efficiency of the JavaScript stack - Node.js, React, and Typescript. Not only that, but I also venture into mobile app development using React Native.
 
----
 
 ### 📚 I’m currently learning ...
 
 My ongoing learning journey is focused on solidifying my expertise in the JS stack. I'm dedicated to comprehending robust architectures and effective project patterns. Recently, I expanded my knowledge by delving into the fascinating realm of cloud computing.
 
----
 
 ### 📫 How to reach me: ...
 
@@ -45,4 +38,3 @@ My ongoing learning journey is focused on solidifying my expertise in the JS sta
 - **LinkedIn:** [https://www.linkedin.com/in/pedro-lucas-pinheiro-araujo/](https://www.linkedin.com/in/pedro-lucas-pinheiro-araujo/)
 - **Phone:** +55 (22) 99263-2108
 
----
