@@ -1,5 +1,8 @@
 # Hi, I'm Pedro Lucas👋👨‍💻
 
+
+![1722605006979](https://github.com/user-attachments/assets/e6edce24-512e-46b8-aae2-28a83815ab28)
+
 Enthusiast of the Best Web & Mobile Development Technologies
 
 At the age of 15, I began my training in the field, and my outstanding performance during this period earned me a unique opportunity: I was hired as a developer at a multinational company while still in school. Now, with several years of experience, I have expanded my knowledge and skills, enabling me to become an even more well-rounded developer. I actively participate in international projects, directly engage with clients, and implement complex solutions.
