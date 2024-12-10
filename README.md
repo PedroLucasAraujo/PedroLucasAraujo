@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Lucas👋👨‍💻
 
-![Software Developer React](https://github.com/user-attachments/assets/cca5a722-e377-42f6-8964-b46e4f0465d0)
+![Software Developer React](https://github.com/user-attachments/assets/df580a84-a9cf-4559-9460-59357a022a3f)
 
 Enthusiast of the Best Web & Mobile Development Technologies
 
